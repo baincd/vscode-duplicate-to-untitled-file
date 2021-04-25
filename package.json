@@ -10,7 +10,8 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:duplicate-to-untitled-file.duplicateToNewUntitledFile"
+		"onCommand:duplicate-to-untitled-file.duplicateToNewUntitledFile",
+		"onCommand:duplicate-to-untitled-file.replaceWithDuplicatedNewUntitledFile"
 	],
 	"main": "./dist/extension.js",
 	"contributes": {
@@ -18,6 +19,10 @@
 			{
 				"command": "duplicate-to-untitled-file.duplicateToNewUntitledFile",
 				"title": "Duplicate to New Untitled File"
+			},
+			{
+				"command": "duplicate-to-untitled-file.replaceWithDuplicatedNewUntitledFile",
+				"title": "Replace with Duplicated New Untitled File"
 			}
 		]
 	},
