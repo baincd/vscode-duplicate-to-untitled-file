@@ -4,6 +4,6 @@ All notable changes to the "duplicate-to-untitled-file" extension will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.0] - 2021-04-25
 
 - Initial release
