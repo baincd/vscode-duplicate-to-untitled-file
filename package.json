@@ -3,7 +3,7 @@
 	"name": "duplicate-to-untitled-file",
 	"displayName": "Duplicate to Untitled File",
 	"description": "Duplicate file to new untitled file",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
