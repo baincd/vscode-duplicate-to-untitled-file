@@ -10,14 +10,14 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:duplicate-to-untitled-file.helloWorld"
+		"onCommand:duplicate-to-untitled-file.duplicateToNewUntitledFile"
 	],
 	"main": "./dist/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "duplicate-to-untitled-file.helloWorld",
-				"title": "Hello World"
+				"command": "duplicate-to-untitled-file.duplicateToNewUntitledFile",
+				"title": "Duplicate to New Untitled File"
 			}
 		]
 	},
