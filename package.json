@@ -1,8 +1,14 @@
 {
+	"publisher": "baincd",
 	"name": "duplicate-to-untitled-file",
 	"displayName": "Duplicate to Untitled File",
 	"description": "Duplicate file to new untitled file",
 	"version": "0.0.1",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/baincd/vscode-duplicate-to-untitled-file"
+	},
 	"engines": {
 		"vscode": "^1.20.0"
 	},
